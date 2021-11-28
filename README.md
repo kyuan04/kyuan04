@@ -1,5 +1,5 @@
-- 👋 Hi, I’m KevKev99
-- 👀 I’m a high school senior and interested in coding
+- 👋 Hi, I’m Kevin!
+- 👀 I’m a high school senior interested in coding
 - 🌱 I’m currently learning Java, Python and C#
 - 💞️ I’m looking forward to contributing to open source projects.
 
