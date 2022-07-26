@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin!
-- 👀 I’m a high school senior interested in coding
+- 👀 I’m a college freshman studying computer science
 - 🌱 I’m currently learning Java, Python and C#
 - 💞️ I’m looking forward to contributing to open source projects.
 
