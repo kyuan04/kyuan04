@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Kevin!
-- 👀 I’m a college freshman studying computer science
-- 🌱 I’m currently learning Java, Python and C#
-- 💞️ I’m looking forward to contributing to open source projects.
+Hi, I’m Kevin! I’m a college freshman studying computer science at UCLA. I love building applications and creating software that provides convenience and value. I'm currently seeking internship experience. Feel free to reach me at kyuan191787@gmail.com for any inquiries or opportunities!
 
 <!---
 kevkev99/kevkev99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
